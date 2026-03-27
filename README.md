@@ -4,11 +4,13 @@ If you find this repository useful for your research, please consider citing our
 
 ```bibtex
 @article{EGBDPM,
-  title   = {EGBDPM: Efficient Granular Ball Density Peaks Clustering for Manifold Data},
-  author  = {Zhang, Xingguo and Xu, Li and Jia, Weikuan},
+  title = {EGBDPM: Efficient granular ball density peaks clustering for manifold data},
   journal = {Neurocomputing},
-  year    = {2026},
-  pages   = {133427},
-  issn    = {0925-2312},
-  doi     = {10.1016/j.neucom.2026.133427}
+  volume = {682},
+  pages = {133427},
+  year = {2026},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2026.133427},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231226008246},
+  author = {Xingguo Zhang and Li Xu and Weikuan Jia}
 }
