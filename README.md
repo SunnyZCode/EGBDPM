@@ -14,3 +14,29 @@ If you find this repository useful for your research, please consider citing our
   url = {https://www.sciencedirect.com/science/article/pii/S0925231226008246},
   author = {Xingguo Zhang and Li Xu and Weikuan Jia}
 }
+```
+
+# Project Environment
+
+## Python Version
+
+- Python 3.11.10
+
+## Main Dependencies
+
+| Package | Version |
+|---|---:|
+| `numpy` | 2.1.2 |
+| `scipy` | 1.14.1 |
+| `scikit-learn` | 1.5.2 |
+| `pandas` | 2.2.3 |
+| `matplotlib` | 3.9.2 |
+| `munkres` | 1.1.4 |
+
+## Installation
+
+Install the required packages with the following command:
+
+```bash
+pip install numpy==2.1.2 scipy==1.14.1 scikit-learn==1.5.2 pandas==2.2.3 matplotlib==3.9.2 munkres==1.1.4
+```
